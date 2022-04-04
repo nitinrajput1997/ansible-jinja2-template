@@ -1,7 +1,8 @@
 # ansible-1
 
 ```bash
-- name: Test template playbook
+- 
+  name: Test template playbook
   hosts: localhost
   vars: 
     my_name: Nitin Rajput
